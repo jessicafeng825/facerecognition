@@ -5,3 +5,5 @@ reference:Joint Face Detection and Alignment using Multi-task Cascaded Convoluti
 use CNN to classify the faces
 reference:FaceNet: A Unified Embedding for Face Recognition and Clustering https://arxiv.org/abs/1503.03832
 and real-time recognition.
+you can download the CASIA dataset in 
+https://download.csdn.net/download/dsbhgkrgherk/10228992
